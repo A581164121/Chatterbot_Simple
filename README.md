@@ -30,3 +30,5 @@
 - 🔸 Implement speech-to-text for voice interaction. 
 - 🔸 Connect to APIs for real-time data. 
 - 🔸 Deploy as web or mobile chatbot app
+
+## This project highlights my ability to build AI-driven chatbot solutions, enhancing my knowledge in AI, NLP, and software development. 🚀
