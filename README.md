@@ -25,7 +25,7 @@
 - 🚀 Version Control (Git/GitHub) – Project management and deployment. 
 - 🚀 Debugging & Troubleshooting – Error fixing and optimization.
 
-**Next Steps** 
+**Next Coming Steps** 
 - 🔸 Add more training data to improve chatbot. 
 - 🔸 Implement speech-to-text for voice interaction. 
 - 🔸 Connect to APIs for real-time data. 
